@@ -1,6 +1,6 @@
 .botpress__side-internal {
   background-color: rgb(255, 255, 255);
-  border: 1px solid rgba(0, 0, 0, .3);
+  border: 1px solid rgba(255,0,0, .3);
 }
 
 .botpress__side-external .botpress__side-internal .botpress__side-header {
@@ -18,7 +18,7 @@
 .botpress__side-conversation,
 .botpress__side-header,
 .botpress__convos-list {
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(255,0,0, .3);
 }
 
 .botpress__side-external .botpress__side-internal .botpress__side-conversation .botpress__side-conversation-bottom .botpress__side-new-message {
@@ -31,5 +31,5 @@
 }
 
 .botpress__side-external .botpress__side-internal .botpress__convos-list .botpress__convo-item:hover {
-  background-color: rgba(0, 0, 0, .35);
+  background-color: rgba(255,0,0, .35);
 }
